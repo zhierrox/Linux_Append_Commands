@@ -1,0 +1,5 @@
+1，修改read only:: w !sudo tee %
+2，unable to lock the administration directory (/var/lib/dpkg/) 
+   is another process using it：：
+   sudo root::cd /root::进入root
+	
